@@ -1,0 +1,68 @@
+*{
+    background-color: black;
+    color: white;
+}
+header{
+    background-color: black;
+    color: white;
+}
+header .help li a{
+    color: white;
+}
+header .help button{
+    color: white;
+    background-color: black;
+}
+header .searchArea input{
+    border: 1px solid rgb(252, 252, 252);
+}
+header .searchArea button{
+    border: 1px solid rgb(252, 252, 252);
+    color: white;
+}
+nav{
+    background-color: black;
+    color: white;
+}
+nav li a{
+    color: white;
+}
+#top_programming{
+    color: white;
+    background-color: rgb(67, 67, 67);
+}
+#topProTitle{
+    background-color: rgb(67, 67, 67);    
+}
+#top_programming article{
+    background-color: rgb(67, 67, 67);
+}
+#top_programming .box{
+    background-color: black;
+}
+#firstlearn .box{
+    background-color: rgb(67, 67, 67);
+}
+form input{
+    border: 1px solid white;
+}
+form textarea{
+    border: 1px solid white;
+}
+footer{
+    background-color: rgb(67, 67, 67);
+}
+#blogpage .box{
+    background-color: rgb(61, 60, 60);
+    padding: 10px;
+    border-radius: 8px;
+}
+#blogpage .box section{
+    background: none;
+}
+#blogpage .box:hover{
+    background-color: rgb(45, 45, 46);
+}
+#lightbox #lbox{
+    background-color: rgb(0,0,0);
+}
